@@ -2,7 +2,7 @@
 
 React Native project
 Student: Aleksey Pavlenko
-Date: 27.02.2026
+Date: 05.03.2026
 
 Environment installed:
 - Node.js
